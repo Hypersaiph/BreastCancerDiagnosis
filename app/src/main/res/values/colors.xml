@@ -7,4 +7,5 @@
     <color name="secondary_text">#757575</color>
     <color name="white">#FFFFFF</color>
     <color name="divider">#BDBDBD</color>
+    <color name="login_dark">#32000000</color>
 </resources>
